@@ -27,7 +27,7 @@ Esta sección dejare los scripts que ire creando a partir del tiempo. Como soy n
   Send("#r")
   Sleep(125)
   Send("chrome.exe")
-  MsgBox(3, "Alerta", "Abriendo Youtube en Google Chrome")
+  MsgBox(1, "Alerta", "Abriendo Youtube en Google Chrome")
   Send("{ENTER}")
   Sleep(160)
   Send("youtube.com")
