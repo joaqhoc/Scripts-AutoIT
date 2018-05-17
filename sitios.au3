@@ -5,7 +5,7 @@
 Opt("GUIResizeMode", $GUI_DOCKAUTO)
 #Region ### START Koda GUI section ### Form=
 $Inicio = GUICreate("Inicio", 325, 505, -1, -1)
-GUISetIcon("C:\Users\Noga\Desktop\Sources VB - MU ONLINE\BEAST LAUNCHER\BeastLauncher-6.0.1\Launcher.exe", -1)
+GUISetIcon("C:\Users\Noga\Desktop\runaway.exe", -1)
 GUISetBkColor(0xA0A0A4)
 $boton_yt = GUICtrlCreateButton("YOUTUBE", 88, 376, 161, 65)
 GUICtrlSetFont(-1, 12, 400, 0, "GAMECUBEN")
