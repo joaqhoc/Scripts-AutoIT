@@ -19,4 +19,23 @@ Esta sección dejare los scripts que ire creando a partir del tiempo. Como soy n
 
 # Script | Sitios Web + SIMPLE GUI 🌐
 
+> Para que el codigo funcione al %100 solo necesita tener Google Chrome, si no lo tiene cambie la ejecución de 
+
+´´´au3
+Send("chrome.exe")
+´´´
+
+
+Lo debe cambiar por
+
+
+´´´au3
+Send("firefox.exe") // Caso de Firefox
+´´´
+
+
+´´´au3
+Send("opera.exe") // Caso de Opera
+´´´
+
 
