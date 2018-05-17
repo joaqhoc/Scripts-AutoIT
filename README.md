@@ -17,6 +17,6 @@
 Esta sección dejare los scripts que ire creando a partir del tiempo. Como soy nuevo en esto no me llevara mucho tiempo en llevarme bien con el código así que bueno les dejare mis proyectos.
 
 
-# Script | Sitios Web + GUI 🌐
+# Script | Sitios Web + SIMPLE GUI 🌐
 
 
