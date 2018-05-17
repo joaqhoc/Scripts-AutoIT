@@ -23,7 +23,7 @@ Esta sección dejare los scripts que ire creando a partir del tiempo. Como soy n
 
 ```au3
 Send("chrome.exe")
-´´´
+```
 
 
 Lo debe cambiar por
@@ -31,11 +31,11 @@ Lo debe cambiar por
 
 ```au3
 Send("firefox.exe") // Caso de Firefox
-´´´
+```
 
 
 ```au3
 Send("opera.exe") // Caso de Opera
-´´´
+```
 
 
